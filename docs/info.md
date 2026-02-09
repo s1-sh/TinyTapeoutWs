@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Works just as an original vga example design stripes
 
 ## How to test
 
-Explain how to use your project
+Should be tested the same way as original vga example design stripes
 
 ## External hardware
 
